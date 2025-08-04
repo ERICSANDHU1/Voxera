@@ -1,4 +1,5 @@
-
+ Voxera – Video Conferencing Platform Built with Next.js
+A full-featured Zoom-inspired video conferencing application, built with modern technologies like Next.js, TypeScript, Clerk, GetStream, shadcn, and Tailwind CSS. Voxera enables users to create, join, and manage meetings with a secure and responsive UI, tailored for real-time collaboration.
 
 ## 📋 <a name="table">Table of Contents</a>
 
