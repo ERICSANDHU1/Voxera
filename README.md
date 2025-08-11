@@ -9,7 +9,7 @@ A full-featured Zoom-inspired video conferencing application, built with modern 
 4. 🕸️ [Assets & Code](#snippets)
 5. 🚀 [More](#more)
 
-## 🚨 Tutorial
+## 🚨 Tutorial-
 
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
